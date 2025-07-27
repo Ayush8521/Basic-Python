@@ -1,0 +1,1 @@
+print("Namaste Ayush Bhaiya\nkaise ho aap")

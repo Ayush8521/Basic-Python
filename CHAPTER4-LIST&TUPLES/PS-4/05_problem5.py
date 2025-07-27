@@ -1,0 +1,6 @@
+#WAP TO COUNT THE NUMBER OF ZEROS IN THE FOLLOWING TUPLES
+a = (7,0,8,0,0,9) 
+
+n=a.count(0)
+print(n)
+
